@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Nikeeta Sharma 👋</h1>
 
-<p align="center">
+<p align="left">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+    <img src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019083005L.gif" height= "500" width="500"/>
 </p>
 
 <p align="center">
